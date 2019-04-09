@@ -1,0 +1,7 @@
+<?php
+const DB_ADDR = "localhost";
+const DB_USER = "username";
+const DB_PASS = "password";
+
+const RT_USER = "username";
+const RT_PASS = "password";
